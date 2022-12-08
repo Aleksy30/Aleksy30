@@ -1,6 +1,7 @@
 - Hi, my name is Aleksy and im from Poland
 - I’m interested in technology and rock climbing.
-- Currently learning C++ (Mindblowing)
+- Currently learning JS 
+- Basics C++
 - I’m looking to collaborate to learning new thing.
 - 📫 kmitaaleksy@gmail.com
-- www.linkedin.com/in/Aleksy1618
+- www.linkedin.com/in/AleksyKmita
